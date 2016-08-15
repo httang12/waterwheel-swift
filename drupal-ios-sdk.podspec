@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "drupal-ios-sdk"
-  s.version      = "2.1.5"
+  s.version      = "2.1.6"
   s.summary      = "A framework for communicating to Drupal via an iPhone."
   s.homepage     = "https://github.com/kylebrowning/drupal-ios-sdk"
   s.author       = { "Kyle Browning" => "kylebrowning@me.com" }
