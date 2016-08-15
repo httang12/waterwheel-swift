@@ -36,7 +36,7 @@
 // ***** END LICENSE BLOCK *****
 
 #import <Foundation/Foundation.h>
-#import "AFHTTPRequestOperationManager.h"
+#import "AFNetworking/AFNetworking.h"
 
 @interface DIOSSession : AFHTTPRequestOperationManager {
   NSDictionary *user;

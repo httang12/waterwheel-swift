@@ -35,8 +35,7 @@
 //
 // ***** END LICENSE BLOCK *****
 
-#import "AFHTTPRequestOperation.h"
-
+#import "AFNetworking/AFNetworking.h"
 
 @interface DIOSUser : NSObject
 
